@@ -1,0 +1,21 @@
+body{
+  background-color:#ffffE0; /*BIRU PASTEL*/
+  font-family:ariel,sans-serif;jenis huruf yang bersih dan mud
+  color:#191970; /*warna teks utama (pink )*/
+}
+
+.kartu-profil
+   width:300px;
+   margin:50px auto;/jarak atas/bawah, auto menengah kiri/kanan*/
+   padding :20px;
+   backgroun-color:biru;
+   border-radius: 15px; /* membuat sudut menjadi melemgkung */ 
+   box-shandow: 0 4px 8px rgba(0,0,0,0.1); /* Efek
+   tekt-aling :center; /* menengahkan semua teks 
+}
+
+
+  .kartun-profil img{
+       width:150px;
+       border-radius:50%; /* efek
+  }
